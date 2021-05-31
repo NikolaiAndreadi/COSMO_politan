@@ -1,5 +1,5 @@
-# COSMO_politan
-A script to find a solvation energy of the .xyz or Orca .out file
+# Solvation energy estimator
+A script to find the solvation energy of the .xyz or Orca .out file
 
 1) Place .xyz to xyz direcory or place orca out files to out directory
 2) You can change MOPAC directory or calculation parameters at the beginning of the .py script
